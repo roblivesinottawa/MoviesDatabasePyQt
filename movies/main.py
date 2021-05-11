@@ -8,4 +8,8 @@ from PyQt5.QtWidgets import QApplication
 from .views import Window
 
 def main():
-    
+    """movies database main function"""
+    app = QApplications(sys.argv)
+    win = Window()
+    win.show()
+    sys.exit(app.exec())
