@@ -1,0 +1,2 @@
+- PyQt5 to build the Graphic User Interface
+- SQLite Database

@@ -1,0 +1,2 @@
+This application uses PyQt5 and SQLite to create an app that allows an user to maintain a database of movies. 
+The Graphic User Interface uses PyQt5, then PyQt5 support to connect to an SQLite Database.
